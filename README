@@ -1,0 +1,16 @@
+Bundle::SimpleScan 0.01
+
+This is a bundle of modules related to the simple_scan testing program,
+including all currently-available plugins.
+
+INSTALLATION
+
+To install this module, please use the CPAN shell (or CPANPLUS).
+
+Please send any updates (especially new plugins) to mcmahon at ibiblio.org.
+
+Copyright 2006 by Joe McMahon.
+
+This library is free software; you may use it under the same terms as
+Perl itself.
+
